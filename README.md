@@ -1,5 +1,5 @@
-# Hemispheric_Brain_Age
-Hemispheric brain age and asymmetry estimates in the UK Biobank 
+# Hemispheric Brain Age
+Brain asymmetries from midlife to old adulthood and hemispheric brain age
 
 ##Overview of files:
 1) code (to be submitted)
