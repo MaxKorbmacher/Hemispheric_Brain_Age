@@ -1,5 +1,5 @@
 # Hemispheric Brain Age
-Brain asymmetries from midlife to old adulthood and hemispheric brain age
+ Brain asymmetries from mid- to late life and hemispheric brain age
 
 ##Overview of files:
 1) code (all code used for analyses and plotting is available including global and regional feature analyses, linear and non-linear modelling, model comparisons and associations, as well as sex stratifications)
